@@ -5,7 +5,7 @@ If you'd like to learn how to build this application, refer to this [article](ht
 To clone the repository, run
 
 ```bash
-https://github.com/zolomohan/react-context-dark-mode-starter.git
+git clone https://github.com/zolomohan/react-context-dark-mode.git
 ```
 
 To install the dependencies, run
